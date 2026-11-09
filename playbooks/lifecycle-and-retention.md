@@ -27,7 +27,7 @@
 1. Audit which flows exist and their performance.
 2. Map the customer journey touchpoints (Rule of 7).
 3. Fill gaps in priority order: cart abandonment, welcome, post-purchase, browse abandonment, win-back, replenishment, referral, loyalty.
-4. Check consent and deliverability rules in `best-practices/current.md`.
+4. Check consent and deliverability rules in `best-practices/current.md`. For US SMS, confirm all seven opt-out keywords are honored (FCC rules effective 25 November 2026). For subscriptions sold to UK consumers, confirm reminders, cooling-off notices and online cancellation meet the rules applying from 1 January 2027.
 5. Eisenhower sort.
 
 ## Output
