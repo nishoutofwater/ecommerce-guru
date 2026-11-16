@@ -34,7 +34,7 @@ Mark weakest component first.
 - Is the free shipping threshold set to lift AOV realistically?
 
 ### 5. Technical and current-practice checks
-Check `best-practices/current.md` for page speed, mobile UX, accessibility, payment methods and checkout norms.
+Check `best-practices/current.md` for page speed, mobile UX, accessibility, payment methods and checkout norms. Include AI agent checkout: confirm bot protection and fraud rules do not silently block verified shopping agents (such as ChatGPT Wallet or Shopify agentic checkout) unless that is a deliberate choice.
 
 ### 6. Eisenhower
 Prioritise fixes. Pair each with a test or metric.
