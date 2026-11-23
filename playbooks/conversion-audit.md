@@ -28,6 +28,7 @@ Mark weakest component first.
 - Saved cart and cross-device persistence
 - Abandonment flows (cart, browse, checkout) live and timely?
 - Free shipping progress bar
+- Countdown timers and urgency banners: is each tied to a real end date and stock level? Any pre-ticked paid add-ons? (UK CMA fines in 2026; see `best-practices/current.md`.)
 
 ### 4. Decoy and offer scan
 - Are bundle or tier options present? Is one clearly the target?

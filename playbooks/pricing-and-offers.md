@@ -32,7 +32,7 @@ Add or adjust an option that is dominated by the target. Keep prices and savings
 Free shipping threshold bar, "add X to unlock".
 
 ### 6. Promotion policy
-Discount frequency and depth. Avoid training customers to wait. Check local rules on reference pricing. Urgency and scarcity claims must be true; the EU Digital Fairness Act proposal targets false "nearly sold out" claims and trial-to-paid traps.
+Discount frequency and depth. Avoid training customers to wait. Check local rules on reference pricing. Urgency and scarcity claims must be true; the EU Digital Fairness Act proposal targets false "nearly sold out" claims and trial-to-paid traps, and the UK CMA has fined retailers for fake countdown deadlines and pre-ticked paid extras. Keep dates out of Merchant Center promotion titles; use the date fields.
 
 ### 7. Test plan and Eisenhower
 Define tests (metric: conversion, AOV and margin together).
