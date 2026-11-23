@@ -26,12 +26,13 @@ Add or adjust an option that is dominated by the target. Keep prices and savings
 ### 4. TPB check
 - Attitude: is value obvious (per-unit price, savings shown)?
 - Control: is cancellation of subscriptions easy and stated? (Required in many markets.)
+- Control: is the price shown the total the shopper must pay? Mandatory fees, and in the UK mandatory delivery charges, belong in the displayed price at every stage (see `best-practices/current.md`, CMA and FTC entries).
 
 ### 5. Zeigarnik
 Free shipping threshold bar, "add X to unlock".
 
 ### 6. Promotion policy
-Discount frequency and depth. Avoid training customers to wait. Check local rules on reference pricing.
+Discount frequency and depth. Avoid training customers to wait. Check local rules on reference pricing. Urgency and scarcity claims must be true; the EU Digital Fairness Act proposal targets false "nearly sold out" claims and trial-to-paid traps, and the UK CMA has fined retailers for fake countdown deadlines and pre-ticked paid extras. Keep dates out of Merchant Center promotion titles; use the date fields.
 
 ### 7. Test plan and Eisenhower
 Define tests (metric: conversion, AOV and margin together).

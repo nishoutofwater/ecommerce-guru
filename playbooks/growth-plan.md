@@ -14,7 +14,7 @@
 ### 1. RACE diagnosis
 For each stage (Plan, Reach, Act, Convert, Engage):
 - Current KPI and trend
-- Is tracking reliable?
+- Is tracking reliable? Reconcile platform-reported conversions with back-end orders, and note platform measurement changes (see `best-practices/current.md`).
 - Biggest leak
 
 ### 2. Racecar diagnosis

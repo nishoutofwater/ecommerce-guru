@@ -28,13 +28,14 @@ Mark weakest component first.
 - Saved cart and cross-device persistence
 - Abandonment flows (cart, browse, checkout) live and timely?
 - Free shipping progress bar
+- Countdown timers and urgency banners: is each tied to a real end date and stock level? Any pre-ticked paid add-ons? (UK CMA fines in 2026; see `best-practices/current.md`.)
 
 ### 4. Decoy and offer scan
 - Are bundle or tier options present? Is one clearly the target?
 - Is the free shipping threshold set to lift AOV realistically?
 
 ### 5. Technical and current-practice checks
-Check `best-practices/current.md` for page speed, mobile UX, accessibility, payment methods and checkout norms.
+Check `best-practices/current.md` for page speed, mobile UX, accessibility, payment methods and checkout norms. Include AI agent checkout: confirm bot protection and fraud rules do not silently block verified shopping agents (such as ChatGPT Wallet or Shopify agentic checkout) unless that is a deliberate choice.
 
 ### 6. Eisenhower
 Prioritise fixes. Pair each with a test or metric.
